@@ -1,4 +1,4 @@
-# VuePress CodePipeline Workshop
+# VuePress CodePipeline Workshop - Test
 
 Sample project to create an AWS CodePipeline pipeline to deploy a static VuePress website.
 
